@@ -212,7 +212,7 @@ img {
   .home__img {
   position: absolute;
   top: 68%;
-  left: 30%;
+  left: 40%;
   transform: translate(-50%, -50%);
   width: 300px;
 }
